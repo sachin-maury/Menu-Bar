@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Menu  Bar</string>
+    <string name="edit">Edit</string>
+    <string name="delete">Delete</string>
+    <string name="share">Share</string>
+    <string name="menu_demo">Menu Demo</string>
+</resources>
